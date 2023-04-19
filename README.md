@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-It me :)
-I write code sometimes.
+I write code sometimes :)
 
 
 <!--
